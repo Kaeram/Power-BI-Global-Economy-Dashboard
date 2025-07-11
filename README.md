@@ -60,8 +60,12 @@ The dashboard enables users to gain insights into how economic growth aligns wit
 ### Dashboard Overview
 ![Overview](screenshots/dashboard_overview.png)
 
+![Country Selected](screenshots/single-country-selected.png)
+
 ### Country Drillthrough
-![Drillthrough](screenshots/uae_country_detail.png)
+![Drillthrough](screenshots/drillthrough_step1.png)
+
+![Drillthrough](screenshots/country_drillthrough.png)
 
 ### Scatter Plot – GDP vs Temperature
 ![Scatter Plot](screenshots/scatterplot_correlation.png)
